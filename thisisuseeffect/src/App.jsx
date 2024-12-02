@@ -1,13 +1,13 @@
 
 // import './App.css'
-import { Challenge } from './EffectChallenge'
+import { HowNotToFetchApi } from "./HowNotToFetchApi" 
 
 function App() {
   
 
   return (
     <>
-     <Challenge/>
+     <HowNotToFetchApi/>
     </>
   )
 }
